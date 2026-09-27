@@ -12,11 +12,11 @@
 
 > **[ ANIMUS TERMINAL // PROFILER SYSTEM_ ]**
 > 
-> 👤 **Alias:** Vaibhav Waghmare 
-> 💻 **Designation:** Junior R&D Engineer (GEN AI/ML) | Python & Test Automation[cite: 1] 
-> 🏛️ **Base of Operations:** Pune, Maharashtra, India[cite: 1] 
-> 🎓 **Training Protocol:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur, Class of 2026[cite: 1] 
-> 🎯 **Primary Directive:** Building self-healing AI agents, testing automation tools, and scaling data architectures.[cite: 1]
+> 👤 **Alias:** Vaibhav Waghmare<br></br> 
+> 💻 **Designation:** Junior R&D Engineer (GEN AI/ML) | Python & Test Automation[cite: 1] <br></br> 
+> 🏛️ **Base of Operations:** Pune, Maharashtra, India[cite: 1] <br></br> 
+> 🎓 **Training Protocol:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur, Class of 2026[cite: 1] <br></br> 
+> 🎯 **Primary Directive:** Building self-healing AI agents, testing automation tools, and scaling data architectures.[cite: 1]<br></br> 
 
 <br/>
 
