@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Elegant Ambient Tech Banner -->
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Ambient Grid" width="100%" height="150" style="object-fit: cover; border-radius: 10px; opacity: 0.8;"/>
+  <img src="https://i.giphy.com/3o7aD2d7hy9ktXNDP2.gif" alt="Ambient Grid" width="100%" height="150" style="object-fit: cover; border-radius: 10px; opacity: 0.8;"/>
   
   <br/><br/>
   
@@ -14,15 +14,16 @@
 
 > ⚜️ **[ STRATEGIC DOSSIER // L'EMPIRE DES CODES ]**
 > 
-> 👤 **Alias:** NapoleanCodes (Vaibhav Waghmare)[cite: 2] <br></br> 
-> 📍 **Command Center:** Pune, Maharashtra, India[cite: 1] <br></br> 
-> 🏛️ **Academy:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur[cite: 1] <br></br> 
-> 🎯 **Current Campaign:** Architecting self-healing AI systems, optimizing live-ops testing, and scaling enterprise data pipelines.[cite: 1, 3]<br></br> 
+> 👤 **Alias:** NapoleanCodes (Vaibhav Waghmare)[cite: 2]
+> ⚔️ **Rank:** Junior R&D Engineer (GEN AI/ML) | Full Stack Strategist[cite: 1]
+> 📍 **Command Center:** Pune, Maharashtra, India[cite: 1]
+> 🏛️ **Academy:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur[cite: 1]
+> 🎯 **Current Campaign:** Architecting self-healing AI systems, optimizing live-ops testing, and scaling enterprise data pipelines.[cite: 1, 3]
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcxpCV81ebKk2rO/giphy.gif" alt="Subtle Line Divider" width="60%" height="15" style="opacity: 0.4;" />
+  <img src="https://i.giphy.com/xUPGcxpCV81ebKk2rO.gif" alt="Subtle Line Divider" width="60%" height="15" style="opacity: 0.4;" />
 </div>
 
 ### 🛠️ [ TACTICAL INFRASTRUCTURE // TECH STACK ]
@@ -30,7 +31,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <b>⚜️ CORE LANGUAGES & SYSTEMS</b><br><br>
       <img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=C5A880&color=0A192F" />
       <img src="https://img.shields.io/badge/C++-0A192F?style=flat-square&logo=c%2B%2B&logoColor=C5A880&color=0A192F" />
@@ -48,9 +49,9 @@
       <img src="https://img.shields.io/badge/Jenkins-0A192F?style=flat-square&logo=jenkins&logoColor=C5A880&color=0A192F" />
       <img src="https://img.shields.io/badge/Figma-0A192F?style=flat-square&logo=figma&logoColor=C5A880&color=0A192F" />
     </td>
-    <td width="40%" align="center">
-      <!-- Soft, elegant glowing orb or geometric shape -->
-      <img src="https://media.giphy.com/media/26AHvVd56WjKx4y3K/giphy.gif" alt="Elegant Tech Sphere" width="90%" style="border-radius: 8px; opacity: 0.8;" />
+    <td width="40%" align="center" valign="middle">
+      <!-- Changed from % width to fixed 250px to prevent GitHub table collapse -->
+      <img src="https://i.giphy.com/3o7btQ0NESrs4sckGQ.gif" alt="Elegant Tech Sphere" width="250" style="border-radius: 8px; opacity: 0.9;" />
     </td>
   </tr>
 </table>
@@ -92,7 +93,6 @@
 ### 📈 [ COMMAND CENTER TELEMETRY ]
 
 <div align="center">
-  <!-- Customized to use a sleek Navy and Gold palette, very soft on the eyes -->
   <img src="https://github-readme-stats.vercel.app/api?username=alphaoct26&show_icons=true&title_color=C5A880&text_color=8892B0&icon_color=C5A880&bg_color=0A192F&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaoct26&stroke=C5A880&background=0A192F&ring=C5A880&fire=C5A880&currStreakNum=E6F1FF&currStreakLabel=C5A880&sideNums=8892B0&sideLabels=8892B0&dates=8892B0&hide_border=true" alt="GitHub Streak" />
 </div>
