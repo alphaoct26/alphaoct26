@@ -14,11 +14,10 @@
 
 > ⚜️ **[ STRATEGIC DOSSIER // L'EMPIRE DES CODES ]**
 > 
-> 👤 **Alias:** NapoleanCodes (Vaibhav Waghmare)[cite: 2]
-> ⚔️ **Rank:** Junior R&D Engineer (GEN AI/ML) | Full Stack Strategist[cite: 1]
-> 📍 **Command Center:** Pune, Maharashtra, India[cite: 1]
-> 🏛️ **Academy:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur[cite: 1]
-> 🎯 **Current Campaign:** Architecting self-healing AI systems, optimizing live-ops testing, and scaling enterprise data pipelines.[cite: 1, 3]
+> 👤 **Alias:** NapoleanCodes (Vaibhav Waghmare)<br></br>
+> 📍 **Command Center:** Pune, Maharashtra, India<br></br>
+> 🏛️ **Academy:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur<br></br>
+> 🎯 **Current Campaign:** Architecting self-healing AI systems, optimizing live-ops testing, and scaling enterprise data pipelines.<br></br>
 
 <br/>
 
@@ -62,31 +61,31 @@
 *Architectures deployed on the digital battlefield.*
 
 *   🛡️ **[Sentinel: Self-Healing AI Agent](https://github.com/alphaoct26)** 
-    *   *The Objective:* AI-driven test automation for live-ops QC workflows.[cite: 1]
-    *   *The Strategy:* Engineered an 80%+ confidence diagnostic loop to auto-patch selector drift, safeguarded by a Human Review protocol to maintain system integrity.[cite: 1]
+    *   *The Objective:* AI-driven test automation for live-ops QC workflows.
+    *   *The Strategy:* Engineered an 80%+ confidence diagnostic loop to auto-patch selector drift, safeguarded by a Human Review protocol to maintain system integrity.
 *   📊 **[Auto-Analyst: ETL Data Automation](https://github.com/alphaoct26)** 
-    *   *The Objective:* End-to-end Medallion architecture replacing manual reporting.[cite: 1, 3]
-    *   *The Strategy:* Deployed multi-LLM Text-to-SQL workflows, reducing pipeline runtime by 70% and saving 8+ analyst hours weekly.[cite: 1]
+    *   *The Objective:* End-to-end Medallion architecture replacing manual reporting.
+    *   *The Strategy:* Deployed multi-LLM Text-to-SQL workflows, reducing pipeline runtime by 70% and saving 8+ analyst hours weekly.
 *   📜 **[Vendor Invoice Intelligence]** 
-    *   *The Objective:* OCR + NLP system for rapid vendor invoice processing.[cite: 3]
-    *   *The Strategy:* Cut manual data entry bottlenecks by 65% while improving fraud detection accuracy by 30%.[cite: 3]
+    *   *The Objective:* OCR + NLP system for rapid vendor invoice processing.
+    *   *The Strategy:* Cut manual data entry bottlenecks by 65% while improving fraud detection accuracy by 30%.
 
 <br/>
 
 ### 🤝 [ ALLIANCES // EXPERIENCE & LEADERSHIP ]
 
-**🏛️ Preci Forge & Gears | Full Stack Dev Officer** *(Jun 2025 - Apr 2026)*[cite: 3]
-> Engineered comprehensive REST APIs integrating Sales, Manufacturing, and QC divisions.[cite: 1] Secured pipelines with JWT/RBAC, executed robust CI/CD deployments, and resolved deep database latency issues.[cite: 1, 3]
+**🏛️ Preci Forge & Gears | Full Stack Dev Officer** *(Jun 2025 - Apr 2026)*
+> Engineered comprehensive REST APIs integrating Sales, Manufacturing, and QC divisions. Secured pipelines with JWT/RBAC, executed robust CI/CD deployments, and resolved deep database latency issues
 
-**🕹️ Dimensions Club, IIITN | Commander of Game Tech** *(Aug 2022 - Jun 2026)*[cite: 1]
-> Led logistics and strategy for Game Jams and hackathons serving 30+ participants at VLG Tech Fest, fostering cross-college alliances.[cite: 1, 3]
+**🕹️ Dimensions Club, IIITN | Commander of Game Tech** *(Aug 2022 - Jun 2026)*
+> Led logistics and strategy for Game Jams and hackathons serving 30+ participants at VLG Tech Fest, fostering cross-college alliances.
 
 <br/>
 
 ### 🎖️ [ HONORS & RECOGNITION ]
-*   🥇 **Smart India Hackathon 2023 (National Finalist):** Commanded a 6-member vanguard, shipping a digital platform in 36 hours.[cite: 1]
-*   🥈 **Hack4Future (2nd Place / 50+ Teams):** Engineered an ML/NLP educational tool for ADHD/ASD students.[cite: 1]
-*   🏅 **Hackndore 2024:** Ranked in the Top 10 out of 200+ competing teams.[cite: 1]
+
+*   🥈 **Hack4Future (2nd Place / 50+ Teams):** Engineered an ML/NLP educational tool for ADHD/ASD students.
+*   🏅 **Hackndore 2024:** Ranked in the Top 10 out of 200+ competing teams
 
 <br/>
 
