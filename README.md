@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there is ahat im workking on 👋
 
 <!--
 **alphaoct26/alphaoct26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
