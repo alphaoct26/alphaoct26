@@ -1,98 +1,119 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6WvwCRGQjfC49O/giphy.gif" alt="ctOS System Boot" width="100%" />
+  <!-- Top Glitch Banner -->
+  <img src="https://media.giphy.com/media/YQitE4YNQBroM/giphy.gif" alt="DedSec Boot" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #00FF00;"/>
   
-  # 🌐 SYSTEM INITIALIZING... 
-  ## SUBJECT IDENTIFIED: VAIBHAV WAGHMARE
+  <br/><br/>
   
-  *"Self-Healing AI Agent Ready. Awaiting deployment."*
+  <!-- Hacker Typing Effect (Neon Green) -->
+  <a href="https://github.com/alphaoct26">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=%3E_INITIALIZING+ctOS_v3.0...;%3E_SUBJECT:+VAIBHAV+WAGHMARE;%3E_CLASS:+GEN-AI+%2F+ML+OPERATIVE;%3E_FACTION:+IIIT+NAGPUR+(GAME+TECH);%3E_ACCESS:+GRANTED" alt="Typing Effect" />
+  </a>
 </div>
 
-<br/>
-
-> **[ ANIMUS TERMINAL // PROFILER SYSTEM ]**
+> **[ ANIMUS TERMINAL // PROFILER SYSTEM_ ]**
 > 
-> 👤 **Class:** Junior R&D Engineer (GEN AI/ML) | Full Stack Operative[cite: 1]
-> 🏛️ **Faction:** IIIT Nagpur (B.Tech CSE - HCI & Game Technology, Class of 2026)[cite: 1]
-> 📍 **Current Server:** Pune, Maharashtra, India[cite: 1]
-> 🎯 **Main Quest:** Automating game testing workflows, building AI-driven diagnostic loops, and engineering scalable architectures.[cite: 1, 3]
+> 👤 **Alias:** Vaibhav Waghmare 
+> 💻 **Designation:** Junior R&D Engineer (GEN AI/ML) | Python & Test Automation[cite: 1] 
+> 🏛️ **Base of Operations:** Pune, Maharashtra, India[cite: 1] 
+> 🎓 **Training Protocol:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur, Class of 2026[cite: 1] 
+> 🎯 **Primary Directive:** Building self-healing AI agents, testing automation tools, and scaling data architectures.[cite: 1]
 
 <br/>
 
-### 🛠️ SKILL TREE & LOADOUT
-*Equipped weapons and gadgets for the current campaign.*
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Glitch Line" width="100%" height="15" />
 
-**Primary Arsenal (Languages & Backend):**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🛠️ [ SKILL_TREE_&_LOADOUT ]
+*Equipped tech stack for high-level intrusions and system builds.*
 
-**Eagle Vision (AI / ML / Gen-AI):**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=data&logoColor=white)
+<table>
+  <tr>
+    <td width="50%">
+      <b>>_ CORE_LANGUAGES & BACKEND</b><br><br>
+      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00FF00&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00&color=000000&labelColor=111111" />
+      <br><br>
+      <b>>_ AI / ML / NEURAL_NETS</b><br><br>
+      <img src="https://img.shields.io/badge/Gen_AI-000000?style=for-the-badge&logo=openai&logoColor=FF0055&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/LLM_APIs-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF0055&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/Prompt_Eng-000000?style=for-the-badge&logo=ai&logoColor=FF0055&color=000000&labelColor=111111" />
+      <br><br>
+      <b>>_ AUTOMATION / TOOLS</b><br><br>
+      <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=00FFFF&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=00FFFF&color=000000&labelColor=111111" />
+      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF&color=000000&labelColor=111111" />
+    </td>
+    <td width="50%" align="center">
+      <!-- Cool Hacker Coding GIF -->
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hacking System" width="100%" style="border: 1px solid #00FF00; border-radius: 5px;" />
+    </td>
+  </tr>
+</table>
 
-**Gadgets (Automation & Tools):**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Glitch Line" width="100%" height="15" />
 
-<br/>
+### 🎮 [ MAIN_CAMPAIGN // PROJECTS ]
+*Accessing restricted files...*
 
-### 🎮 MAIN CAMPAIGN (PROJECTS)
-*Key missions completed successfully.*
-
-- 🛡️ **[Sentinel: Self-Healing AI Agent](https://github.com/alphaoct26)** 
-  - **Objective:** Built an AI test-automation prototype for live-ops QC workflows.[cite: 1]
-  - **Mechanics:** Converts plain-English specs into Playwright test suites, features an 80%+ confidence auto-patching loop to fix selector/assertion drift, and includes a Human Review Safeguard.[cite: 1]
-- 📊 **Auto-Analyst: ETL Automation** 
-  - **Objective:** Engineered an end-to-end Medallion architecture data pipeline.[cite: 1, 3]
-  - **Mechanics:** Multi-LLM Text-to-SQL tool ingesting API data into PostgreSQL, cutting pipeline runtime by 70% and saving 8+ analyst hours weekly.[cite: 1]
-- 🧾 **Vendor Invoice Intelligence** 
-  - **Objective:** OCR + NLP based system for invoice processing.[cite: 3]
-  - **Mechanics:** Achieved a 65% reduction in manual data entry and a 30% boost in fraud detection.[cite: 3]
-
-<br/>
-
-### 🤝 CO-OP MISSIONS (EXPERIENCE & LEADERSHIP)
-
-**🏢 Preci Forge & Gears | Full Stack Dev Intern** *(June 2025 - April 2026)*[cite: 3]
-- Engineered REST APIs integrating Sales, Manufacturing, and QC.[cite: 1, 3]
-- Built CI/CD pipelines, implemented JWT/RBAC, and applied enterprise web standards (Core Web Vitals).[cite: 1, 3]
-
-**🕹️ Dimensions Club (IIITN) | Organizer** *(Aug 2022 - Jun 2026)*[cite: 1]
-- Spawned Game Jams and hackathons for 30+ participants, handling end-to-end logistics and cross-team co-op.[cite: 1, 3]
+*   🔴 **[Sentinel: Self-Healing AI Live-Ops QC](https://github.com/alphaoct26)** 
+    *   *Payload:* AI-driven prototype that compiles plain-English specs into Playwright test suites.[cite: 1]
+    *   *Mod:* Engineered an 80%+ confidence auto-patching loop for selector/assertion drift with a built-in Human Review Safeguard.[cite: 1]
+*   🟢 **[Auto-Analyst: ETL Data Workflow](https://github.com/alphaoct26)** 
+    *   *Payload:* Built a Medallion architecture ETL pipeline replacing manual analyst work.[cite: 1, 3]
+    *   *Mod:* Deployed multi-LLM Text-to-SQL logic, cutting pipeline runtime by 70% and saving 8+ analyst hours/week.[cite: 1]
+*   🔵 **[Vendor Invoice Intelligence Portal]** 
+    *   *Payload:* OCR + NLP intelligence system for processing vendor invoices.[cite: 3]
+    *   *Mod:* Dropped manual entry times by 65% while boosting fraud detection by 30%.[cite: 3]
 
 <br/>
 
-### 🏆 TROPHY ROOM (ACHIEVEMENTS)
-- 🥇 **Smart India Hackathon 2023:** National Finalist (Lead a 6-player squad, shipped a platform in 36 hours).[cite: 1]
-- 🥈 **Hack4Future:** 2nd Place / 50+ teams (Built ML/NLP tool for ADHD/ASD students).[cite: 1]
-- 🏅 **Hackndore 2024:** Top 10 / 200+ teams.[cite: 1]
+### 🤝 [ CO-OP_MISSIONS // EXPERIENCE & FACTIONS ]
+
+**🏢 PRECI FORGE & GEARS | Full Stack Dev Operative** *(Jun 2025 - Apr 2026)*[cite: 3]
+> Engineered REST APIs mapping Sales, Manufacturing, and QC.[cite: 1] Built CI/CD pipelines, secured endpoints via JWT/RBAC, and nuked database latency bottlenecks.[cite: 1, 3]
+
+**🕹️ DIMENSIONS CLUB (IIITN) | Game Tech Lead** *(Aug 2022 - Jun 2026)*[cite: 1]
+> Hosted Game Jams and Hackathons for 30+ players at VLG Tech Fest.[cite: 1] Organized cross-faction college events and managed event logistics.[cite: 1, 3]
 
 <br/>
 
-### 📈 PLAYER STATS
+### 🏆 [ LEADERBOARD // ACHIEVEMENTS ]
+*   **Smart India Hackathon 2023:** National Finalist (Lead a 6-player squad, shipped a platform in 36 hours).[cite: 1]
+*   **Hack4Future:** 2nd Place out of 50+ teams (Built ML/NLP tool for ADHD/ASD students).[cite: 1]
+*   **Hackndore 2024:** Top 10 out of 200+ teams.[cite: 1]
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Glitch Line" width="100%" height="15" />
+
+### 📈 [ PLAYER_STATS // TELEMETRY ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphaoct26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaoct26&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Custom Neon/Hacker theme injected into the GitHub Stats URLs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alphaoct26&show_icons=true&title_color=00FF00&text_color=FFFFFF&icon_color=FF0055&bg_color=0D0D0D&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaoct26&stroke=00FF00&background=0D0D0D&ring=FF0055&fire=FF0055&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-### 📡 ESTABLISH COMMS LINK
-*Ready to join a new faction? Open a secure channel:*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-waghmare-a27803262)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav005waghmare@gmail.com)
+### 📡 [ ESTABLISH_COMMS_LINK ]
+*Ping me on a secure channel:*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Data Glitch Line" width="100%" height="20" />
-  <p><i>EOF // Transmission Terminated</i></p>
+  <a href="https://linkedin.com/in/vaibhav-waghmare-a27803262">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&border=1" />
+  </a>
+  <a href="mailto:vaibhav005waghmare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0055" />
+  </a>
+  <a href="https://github.com/vaibhav-waghmare">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/4KkSbPnZ5Skec/giphy.gif" alt="Disconnecting" width="300" />
+  <p><code style="color: #00FF00;">System.exit(0); // Disconnecting from Animus...</code></p>
 </div>
