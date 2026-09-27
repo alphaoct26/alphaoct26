@@ -13,7 +13,6 @@
 > **[ ANIMUS TERMINAL // PROFILER SYSTEM_ ]**
 > 
 > 👤 **Alias:** Vaibhav Waghmare<br></br> 
-> 💻 **Designation:** Junior R&D Engineer (GEN AI/ML) | Python & Test Automation[cite: 1] <br></br> 
 > 🏛️ **Base of Operations:** Pune, Maharashtra, India[cite: 1] <br></br> 
 > 🎓 **Training Protocol:** B.Tech CSE (HCI & Game Technology) @ IIIT Nagpur, Class of 2026[cite: 1] <br></br> 
 > 🎯 **Primary Directive:** Building self-healing AI agents, testing automation tools, and scaling data architectures.[cite: 1]<br></br> 
@@ -63,7 +62,7 @@
 *   🟢 **[Auto-Analyst: ETL Data Workflow](https://github.com/alphaoct26)** 
     *   *Payload:* Built a Medallion architecture ETL pipeline replacing manual analyst work.[cite: 1, 3]
     *   *Mod:* Deployed multi-LLM Text-to-SQL logic, cutting pipeline runtime by 70% and saving 8+ analyst hours/week.[cite: 1]
-*   🔵 **[Vendor Invoice Intelligence Portal]** 
+*   🔵 **[Vendor Invoice Intelligence Portal](https://vendor-invoice-intelligence-app-77gt8jg95btahv93my4z2s.streamlit.app/)** 
     *   *Payload:* OCR + NLP intelligence system for processing vendor invoices.[cite: 3]
     *   *Mod:* Dropped manual entry times by 65% while boosting fraud detection by 30%.[cite: 3]
 
